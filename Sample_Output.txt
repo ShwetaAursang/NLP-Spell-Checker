@@ -1,0 +1,8 @@
+Enter word: speling
+Suggested correction: spelling
+
+Enter word: langauge
+Suggested correction: language
+
+Enter word: recieve
+Suggested correction: receive
